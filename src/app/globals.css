@@ -1,0 +1,16 @@
+img {
+    height: 12.5rem;
+}
+
+.new-container {
+    /* border: 2px rgba(green, green, green, 0) solid; */
+    transition: border 1s;
+}
+
+.new-container:hover {
+    border: 1px #198754 solid ;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+}
